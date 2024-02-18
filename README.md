@@ -29,3 +29,5 @@ Download the `app-release.apk` to try out the release version
 |<img src="ss_1.png" width="250">|<img src="ss_2.png" width="250">|
 |<img src="ss_3.png" width="250">|<img src="ss_4.png" width="250">|
 |<img src="ss_5.png" width="250">|<img src="ss_6.png" width="250">|
+|<img src="ss_7.png" width="250">|
+
